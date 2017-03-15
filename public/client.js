@@ -1,3 +1,5 @@
+/*  MediaStreamApi */
+
 var stream;
 
 function hasUserMedia(){
